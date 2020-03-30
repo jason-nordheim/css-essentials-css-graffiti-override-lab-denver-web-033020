@@ -5,7 +5,8 @@
   display: block;
 }
 #wall {
-  color: red; 
+  color: red;
+  position: absolute;
 }
 
 #wall .tag-1 {
